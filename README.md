@@ -92,7 +92,11 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Connect with me
 
 <div align="center">
-  <a>https://wa.link/rhrw9u</a>
+ <a href="https://wa.link/rhrw9u">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="WhatsApp"
+         style="margin-bottom: 5px; margin-right: 2px;" />
+</a>
 <br/>
 
 <a href="https://www.facebook.com/arafatislamcute1">
