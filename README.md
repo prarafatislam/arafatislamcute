@@ -92,6 +92,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Connect with me
 
 <div align="center">
+  <a>https://wa.link/rhrw9u</a>
 <br/>
 
 <a href="https://www.facebook.com/arafatislamcute1">
